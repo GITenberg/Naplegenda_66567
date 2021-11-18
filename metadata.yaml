@@ -1,0 +1,29 @@
+_repo: Naplegenda_66567
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bánffy, Miklós
+    aliases:
+    - Banffy, Miklos, grof
+    - Bánffy, Miklós, gróf
+    birthdate: 1874
+    deathdate: 1950
+    gutenberg_agent_id: '53484'
+    url: http://www.gutenberg.org/2009/agents/53484
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Mikl%C3%B3s_B%C3%A1nffy
+    - https://hu.wikipedia.org/wiki/B%C3%A1nffy_Mikl%C3%B3s_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2021-10-19'
+identifiers:
+  gutenberg: '66567'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian drama'
+- GITenberg
+title: Naplegenda
+url: http://www.gutenberg.org/ebooks/66567
