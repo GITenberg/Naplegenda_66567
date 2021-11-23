@@ -1,5 +1,8 @@
 _repo: Naplegenda_66567
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bánffy, Miklós
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Mikl%C3%B3s_B%C3%A1nffy
     - https://hu.wikipedia.org/wiki/B%C3%A1nffy_Mikl%C3%B3s_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66567#Naplegenda
 gutenberg_issued: '2021-10-19'
 identifiers:
   gutenberg: '66567'
